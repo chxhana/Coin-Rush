@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2023-02-09T12:11:35.010-07:00
-  initializedAtString: 2023-02-08T10:40:39.321-07:00
+  lastUpdatedAtString: 2023-02-13T20:25:42.001-07:00
+  initializedAtString: 2023-02-13T20:25:42.001-07:00
   currentGitRemote:
     name: origin
     url: https://github.com/chxhana/Coin-Rush.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: develop
-    tracking: origin/develop
+    name: ErrorCheck
+    tracking: origin/ErrorCheck
   currentConfigBranch:
-    name: develop
+    name: ErrorCheck
     remote:
       name: origin
       url: https://github.com/chxhana/Coin-Rush.git
-    trackingBranch: develop
+    trackingBranch: ErrorCheck
   currentConfigRemote:
     name: origin
     url: https://github.com/chxhana/Coin-Rush.git
